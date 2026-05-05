@@ -1,0 +1,9 @@
+{
+  "[csharp]": {
+    "editor.inlineSuggest.enabled": false
+  },
+  "github.copilot.enable": {
+    "[csharp]": false
+  },
+  "github.copilot.chat.enabled": true
+}
